@@ -28,11 +28,7 @@ and your application (index.html file) should work by just openning it in Chrome
 
 ### What we will look at:
 
-- CSS3: Responsivity, use of pseudo elements, HTML entities and complexity
-  of solution
 
-  - Surprise us with interesting solutions and show off your skills!
-  - NOTE: Solution based on premade CSS frameworks will be completely discarded
 
 - JS: complexity, sanity, error handling, comments and security.
 
@@ -43,7 +39,14 @@ and your application (index.html file) should work by just openning it in Chrome
   - Show us that you know clean code best practices
   - And show off how front-end development should be done.
 
+- CSS3: Responsivity, use of pseudo elements, HTML entities and complexity
+  of solution
 
+  - Surprise us with interesting solutions and show off your skills!
+  - NOTE: Solution based on premade CSS frameworks will be completely discarded
+
+
+<br/><br/>
 Please note: You need to write the code and complete this task yourself.<br/>
 Copy/pasted code from StackOverflow, Github or other sources will be disqualified.<br/>
 And do not forget that your code should be bug free, otherwise it would be rejected!
