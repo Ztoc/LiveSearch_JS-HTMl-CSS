@@ -1,9 +1,7 @@
 # TEST TASK
 
 **Note: Please read this document thoroughly before starting to code** and plan your work accordingly.<br/><br/>
-Clone the repository and follow the instructions that are found in **readme.md**.<br/> When ready, work locally on your computer and make commits as you progress with your work. <br/>Finally, zip the entire project/directory (including your git history) and attach with an email.<br/>
-(Sometimes e-mail service providers do not allow zip-files to be sent, <br/>if you run into trouble please figure out an alternative solution, e.g. shared Dropbox or Google Drive.)<br/><br/>
-
+Clone the repository and follow the instructions that are found in **readme.md**.<br/> When ready, work locally on your computer and make commits as you progress with your work.<br/>Finally, zip the entire project/directory (ensure to include your git history) and send it via the chat.<br/><br/>
 
 
 ### Implement a simple search application
@@ -48,8 +46,7 @@ and your application (index.html file) should work by just openning it in Chrome
 
 <br/><br/>
 Please note: You need to write the code and complete this task yourself.<br/>
-Copy/pasted code from StackOverflow, Github or other sources will be disqualified.<br/>
+Copy/pasted code from ChatGPT, StackOverflow, Github or other sources will be disqualified.<br/>
 And do not forget that your code should be bug free, otherwise it would be rejected!
-
 
 **Good Luck and have fun!**
